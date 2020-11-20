@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.sjyf.aliyun.config.AliYunMessageAutoConfiguration,\
+    com.sjyf.aliyun.config.AliYunPushMessageAutoConfiguration
