@@ -1,4 +1,4 @@
-# aliyun-sms-push
+# springboot 阿里云推送短信自定义starter
 ## springboot 阿里云推送短信自定义starter
 ### yml配置修改参考
 aliyun:
